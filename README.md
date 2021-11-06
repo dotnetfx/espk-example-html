@@ -1,2 +1,2 @@
-# espk-sample-htmlcssjs
-EntreSpark sample site using HTML, TailWind and Javascript.  This example shows how use the embeddables generated from Entrespark.
+# espk-example-html
+EntreSpark sample site using HTML, JavaScript, Tailwind and Firebase to build a fully functional SaaS template using EntreSpark embeds.
